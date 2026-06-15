@@ -26,7 +26,7 @@ Optimization decisions are generated using Mixed Integer Linear Programming (MIL
 |------|---------|
 | `optimizer.py` | Python MILP solver using OR-Tools |
 | `requirements.txt` | Python dependencies |
-| `docs/presentation.pdf` | Project presentation with simulation screenshots |
+| `presentation.pdf` | Project presentation with simulation screenshots |
 
 
 
