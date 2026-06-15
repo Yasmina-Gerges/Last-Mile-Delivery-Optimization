@@ -52,9 +52,10 @@ Outperformed nearest-rider dispatching under varying traffic and demand conditio
 ## How to Run
 
 1. Clone this repository
-2. Install dependencies:
-3. Run the optimizer:
-4. Launch the AnyLogic simulation (requires AnyLogic license)
+2. Install dependencies
+3. Run the optimizer
+
+*Note: The AnyLogic simulation model is not included in this repository. Screenshots and results are available in the presentation PDF.*
 
 
 
